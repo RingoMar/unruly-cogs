@@ -1,0 +1,10 @@
+{
+  "AUTHOR": "Justin__H10",
+  "INSTALL_MSG": "Thanks for installing my cog! ",
+  "NAME": "Rockstargames",
+  "SHORT": "A Rockstar Games cog",
+  "DESCRIPTION": "This cog can get information form Rockstars websites and post it in discord such as the lastest newswire events live players on the pc and server staus and still in beta ",
+  "TAGS": [ "utility", "Embed", "BeautifulSoup 4" ],
+  "REQUIREMENTS": [ "BeautifulSoup" ],
+  "HIDDEN": false
+}
