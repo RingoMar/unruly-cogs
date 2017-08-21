@@ -1,0 +1,9 @@
+{
+  "AUTHOR": "Justin__H10",
+  "INSTALL_MSG": "Thanks for installing my cog! ",
+  "NAME": "onready",
+  "SHORT": "Time in minuntes and seconds",
+  "DESCRIPTION": "This cog show you the date and time when the bot started",
+  "TAGS": [ "utility" ],
+  "HIDDEN": false
+}
